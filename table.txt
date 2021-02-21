@@ -1,0 +1,5 @@
+urara	intermediate	25 
+matapuk	begginer	21 
+matapuk+	intermediate	69 
+matapuk++	expert	858 
+matapuk+++_new	expert	437 
